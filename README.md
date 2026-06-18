@@ -76,7 +76,7 @@ Make the vision specific. Specificity is load-bearing.
 Externalise the vision fast. Seeing it rendered sharpens what you actually want.
 
 - **[Claude](https://claude.ai)** / **[ChatGPT](https://chatgpt.com)** / **[Gemini](https://gemini.google.com)** — Interview yourself for clarity, pressure-test a spec, draft the plan.
-- **[Midjourney](https://www.midjourney.com)** / **[Nano Banana / Gemini Image](https://gemini.google.com)** / **[Flux](https://blackforestlabs.ai)** — Render the imagined outcome as an image to sharpen the vision.
+- **[Midjourney](https://www.midjourney.com)** / **[Google Gemini Image / Imagen](https://gemini.google.com)** (the "Nano Banana" models) / **[Flux](https://blackforestlabs.ai)** — Render the imagined outcome as an image to sharpen the vision.
 - **[v0](https://v0.dev)** — Turn a vision for a page or product into a working first version in minutes.
 - **[Higgsfield](https://higgsfield.ai)** — Image + video generation for bringing a concept to life.
 

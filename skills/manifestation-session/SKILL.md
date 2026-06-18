@@ -18,7 +18,7 @@ The user asks to manifest something, visualize a goal, do an intention or vision
 
 2. **Find the felt detail.** Ask: when this is real, where are you, what do you see and hear, who's there, and what does the moment it lands *feel* like in the body? Collect 3–5 sensory anchors. The feeling is the lever, not the thinking.
 
-3. **Guide the rehearsal.** Write a 1–2 minute first-person, present-tense script of that moment using their anchors. Tell them to read it slowly, eyes closed after, and run it like a film for a few minutes. This is the imagined-practice rep.
+3. **Guide the rehearsal.** Write a 1–2 minute first-person, present-tense script of that moment using their anchors. Tell them to read it slowly, then close their eyes and run it like a film for a few minutes. This is the imagined-practice rep.
 
 4. **Surface the obstacle (honesty step).** Ask for the single biggest real obstacle between now and the outcome. Outcome-only fantasy can *reduce* effort — pairing the wish with the obstacle (mental contrasting / WOOP) is what keeps it grounded.
 
