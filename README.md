@@ -1,6 +1,6 @@
 # Awesome Manifestation Skills
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-manifestation-skills?style=flat)](https://github.com/frankxai/awesome-manifestation-skills/stargazers) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-manifestation-skills?style=flat)](https://github.com/frankxai/awesome-manifestation-skills/commits/main)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-manifestation-skills?style=flat)](https://github.com/frankxai/awesome-manifestation-skills) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-manifestation-skills?style=flat)](https://github.com/frankxai/awesome-manifestation-skills/commits/main)
 
 > Web-first tools for reflective, observable, human-owned practices—not guarantees of personal outcomes.
 
