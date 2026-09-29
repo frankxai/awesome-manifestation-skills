@@ -12,7 +12,7 @@
 - [ ] Cross-link to other awesome-* lists
 
 ## Checklist
-- [ ] I have read the [CONTRIBUTING.md](CONTRIBUTING.md)
+- [ ] I have read the [CONTRIBUTING.md](https://github.com/frankxai/awesome-manifestation-skills/blob/main/CONTRIBUTING.md)
 - [ ] My changes follow the provenance and naming guidelines
 - [ ] I have added/updated tests or examples if applicable
 - [ ] I have updated the README or docs with 6-Pillar mapping where relevant
